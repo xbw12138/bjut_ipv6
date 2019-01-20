@@ -1,0 +1,16 @@
+{
+  "localaddr": ":1086",
+  "remoteaddr": "[2001:19f0:6001:5f18:5400:01ff:fec8:867e]:29900",
+  "key": "xbw12138",
+  "crypt": "aes",
+  "mode": "fast3",
+  "mtu": 1350,
+  "sndwnd": 512,
+  "rcvwnd": 512,
+  "datashard": 10,
+  "parityshard": 3,
+  "dscp": 0,
+  "nocomp": false,
+  "quiet": false
+}
+
