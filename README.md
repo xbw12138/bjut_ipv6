@@ -82,10 +82,10 @@ source ~/.bashrc
 之后就可以直接使用 pc wget www.baidu.com
 
 ## 启动方法
-1. 自建脚本
+1. 自建脚本<BR>
 ![](https://github.com/xbw12138/bjut_ipv6/blob/master/image.png)
-2. 登录
+2. 登录<BR>
 ![](https://github.com/xbw12138/bjut_ipv6/blob/master/image2.png)
-3. 注销
+3. 注销<BR>
 ![](https://github.com/xbw12138/bjut_ipv6/blob/master/image3.png)
 
